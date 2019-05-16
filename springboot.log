@@ -1,0 +1,8 @@
+2019-05-16 22:45:00.285  INFO 13676 --- [main] .z.s.SpringBoot05LoggingApplicationTests : Starting SpringBoot05LoggingApplicationTests on LAPTOP-P0DJFR89 with PID 13676 (started by 中豪 in E:\idea\spring-boot-05-logging)
+2019-05-16 22:45:00.288  INFO 13676 --- [main] .z.s.SpringBoot05LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2019-05-16 22:45:02.578  INFO 13676 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-16 22:45:02.962  INFO 13676 --- [main] .z.s.SpringBoot05LoggingApplicationTests : Started SpringBoot05LoggingApplicationTests in 3.32 seconds (JVM running for 4.497)
+2019-05-16 22:45:03.175  INFO 13676 --- [main] .z.s.SpringBoot05LoggingApplicationTests : ===info===
+2019-05-16 22:45:03.178  WARN 13676 --- [main] .z.s.SpringBoot05LoggingApplicationTests : ===warn===
+2019-05-16 22:45:03.178 ERROR 13676 --- [main] .z.s.SpringBoot05LoggingApplicationTests : ===error===
+2019-05-16 22:45:03.185  INFO 13676 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
